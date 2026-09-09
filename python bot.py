@@ -14,7 +14,7 @@ from aiogram.enums import ParseMode
 from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton
 
 # ==================== الإعدادات ====================
-BOT_TOKEN = "8560467962:AAHvxxjOZZb5dYGSMz5EXLUaxiEJeqOX8cQ"
+BOT_TOKEN = "8914863858:AAEsZujShfvrZ5VUQ6KT8A2QIClntbihH8Y"
 OWNER_ID = 8633059017
 DATABASE_PATH = "coving_bot.db"
 MAX_PENDING_REQUESTS = 1
