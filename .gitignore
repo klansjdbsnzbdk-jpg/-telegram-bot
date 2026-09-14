@@ -1,0 +1,24 @@
+# Database
+*.db
+*.db-journal
+bot_database.db
+
+# Telethon session
+*.session
+*.session-journal
+userbot_session*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
